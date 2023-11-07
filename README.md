@@ -1969,7 +1969,7 @@ print(rna_sequence)
 
 
 
-## Translatind RNA to Protein
+## Translating RNA into Protein
 
 ```python
 # Prompt the user to input the file name
