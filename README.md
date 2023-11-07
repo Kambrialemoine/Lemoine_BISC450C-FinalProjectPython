@@ -1783,7 +1783,7 @@ numpy.loadtxt('inflammation-01.csv', delimiter = ',')
 # Functions complete
 ```
 
-##Defensive Programming
+## Defensive Programming
 
 ```python
 numbers = [1.5, 2.3, 0.7, -0.001, 4.4]
